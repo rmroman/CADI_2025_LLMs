@@ -4,3 +4,5 @@ of Ollama. Instructions about the installation of Ollama on Windows and Mac can 
 
 https://view.genially.com/673692e4cd9e73e9f41c0c07/presentation-instruccionesparacadi
 
+A Python version < 3.12 is required in order to use Instructor Embeddings from huggingface.
+
