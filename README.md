@@ -8,3 +8,14 @@ A Python version < 3.12 is required in order to use Instructor Embeddings from h
 
 Personal api keys can be stored in the .env file. 
 The only notebooks requiring a personal api key are "SimpleRAG_nolocal.ipynb" amd "SimpleRAG_streamlit.ipynb", which require a key for using llama from groq.  
+
+To get the key, create an account here:
+
+https://console.groq.com/login
+
+get the key:
+
+https://console.groq.com/keys
+Copy your key in .env file:
+
+GROQ_API_KEY='copyhereyourkey'
